@@ -18,7 +18,7 @@ import (
 )
 
 const (
-	defaultSubsystem = "goframe"
+	defaultSubsystem = "http"
 )
 
 const (
